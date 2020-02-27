@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.Entities\bin\Debug\netcoreapp3.1\SpringMvcApp.Entities.deps.json
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.Entities\bin\Debug\netcoreapp3.1\SpringMvcApp.Entities.dll
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.Entities\bin\Debug\netcoreapp3.1\SpringMvcApp.Entities.pdb
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.Entities\obj\Debug\netcoreapp3.1\SpringMvcApp.Entities.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.Entities\obj\Debug\netcoreapp3.1\SpringMvcApp.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.Entities\obj\Debug\netcoreapp3.1\SpringMvcApp.Entities.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.Entities\obj\Debug\netcoreapp3.1\SpringMvcApp.Entities.dll
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.Entities\obj\Debug\netcoreapp3.1\SpringMvcApp.Entities.pdb

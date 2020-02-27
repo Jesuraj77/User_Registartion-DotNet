@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.deps.json
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLayer.dll
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLayer.pdb
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csproj.CopyComplete
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb

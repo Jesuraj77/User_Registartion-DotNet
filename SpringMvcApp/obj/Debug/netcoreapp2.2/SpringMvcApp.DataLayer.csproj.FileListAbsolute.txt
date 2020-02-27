@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLayer.deps.json
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLayer.dll
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLayer.pdb
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLayer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLayer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLayer.csproj.CopyComplete
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLayer.dll
+C:\Users\Admin\source\repos\Spring MVC App\SpringMvcApp\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLayer.pdb
